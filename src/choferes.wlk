@@ -5,3 +5,6 @@ object roxana {
 	}
 }
 
+object ludmila {
+	method precioPactadoPorKm() = 18
+}
