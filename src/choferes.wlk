@@ -8,3 +8,7 @@ object roxana {
 object ludmila {
 	method precioPactadoPorKm() = 18
 }
+
+object anaMaria {
+	method precioPactadoPorKm() = 30
+}
